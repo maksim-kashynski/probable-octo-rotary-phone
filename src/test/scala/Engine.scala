@@ -1,6 +1,6 @@
 import com.excilys.ebi.gatling.app.Gatling
 import com.excilys.ebi.gatling.core.config.GatlingPropertiesBuilder
-
+// This is a test
 object Engine extends App {
 	
 	val props = new GatlingPropertiesBuilder
